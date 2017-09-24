@@ -4,7 +4,8 @@
   "description": "Is my first Node Web Server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Juan Sebastián Flórez Saavedra",
   "license": "ISC",
